@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.top-section{
+    width: 100%;
+    height: 400px;
+background: url("https://cdnflags.dream11.com/d11-static-pages/images/homebg_2022_ipl_updated.webp");
+margin-bottom: 20px;
+position: relative;
+}
+
+
+.banner-section{
+    width: 50%;
+   
+    height: 100%;
+    margin: auto;
+    display: flex;
+}
+
+.banner1{
+width: 50%;
+
+height: 100%;
+}
+
+.banner-img{
+    
+    height: 100%;
+}
+
+
+.ipl-img{
+    width: 70%;
+}
+
+.banner-title{
+    color: white;
+    margin-bottom: 20px;
+}
+
+input{
+    padding: 2%;
+    width:50%;
+    border-radius: 5px;
+}
+
+button{
+    color: white;
+    background-color: green;
+    padding: 2%;
+    width:30%;
+    border-radius: 5px;
+}
+
+.main{
+    width: 80%;
+    margin: 20px auto;
+
+height: 400px;
+}
+
+.main-title{
+    text-align: center;
+}
+
+.secondary-title{
+    color: blue;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.third-title{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* <img src="https://cdnflags.dream11.com/d11-static-pages/images/Logo-Bolt.webp" alt="first-top-img"> */
+
+/* card section */
+
+.card-parent{
+    display: flex;
+    width: 100%;
+    margin-top:50px ;
+    justify-content: space-between;
+
+}
+
+.card{
+    width: 25%;
+    background-color: #EEEEEE;
+    padding: 20px 30px;
+    border-radius: 7px;
+    position: relative;
+}
+
+
+.card-img{
+    width: 40%;
+    position: absolute;
+    top: -50px;
+    right:20px ;
+}
+
+.card-number{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+background-color: green;
+color: white;
+padding: 1% 4%;
+font-size: 25px;
+box-sizing: border-box;
+position: absolute;
+top: -24px;
+}
+
+
+.logo{
+    
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 50%;
+
+}
+
+.container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: fit-content;
+    
+    
+}
